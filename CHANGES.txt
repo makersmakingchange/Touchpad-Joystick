@@ -1,5 +1,6 @@
-Version 1.0 | Date YYYY-mmm-DD
-•	<Summary of new features implemented/changed>
+Version 1.0 | Date 2023-Aug-30
+•	Ron Nelson's joystick deisgn curated within the Touchpad Joystick repository
+•	Documentation by Neil Squire Society uploaded to Touchpad Joystick repository
 
 
 

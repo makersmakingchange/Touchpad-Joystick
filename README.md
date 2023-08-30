@@ -66,7 +66,7 @@ DOCUMENTATION
 | Bill of Materials    | 1.0 | [Touchpad_Joystick_BOM](/Documentation/Touchpad_Joystick_BOM.csv) |
 | Assembly Guide       | 1.0 | [Touchpad_Joystick_Instructions](/Documentation/Touchpad_Joystick_Assembly_Guide.pdf) |
 | Maker Checklist      | 1.0 | [Touchpad_Joystick_Checklist](/Documentation/Touchpad_Joystick_Maker_Checklist.pdf) |
-| User Guide     | 1.0 | [Touchpad_Joystick_Quick_Guide](/Documentation/Touchpad_Joystick_User_Guide.pdf)           |
+| User Quick Guide     | 1.0 | [Touchpad_Joystick_User_Quick_Guide](/Documentation/Touchpad_Joystick_User_Guide.pdf)           |
 | Changelog            | 1.0 | [Touchpad_Joystick_Changelog](/Documentation/Touchpad_Joystick_Changelog.pdf)               |
 
 

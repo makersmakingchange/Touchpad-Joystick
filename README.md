@@ -39,7 +39,7 @@ Include an overall idea of what major steps are required to build the device.
  --->
 
 ### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/Touchpad_Joystick_BOM.xlsx) lists all of the parts and components required to build the Touchpad Joystick. The electronic components may be available locally, but will probably need to be ordered online. 
+The [Bill of Materials](/Documentation/Touchpad_Joystick_BOM.csv) lists all of the parts and components required to build the Touchpad Joystick. The electronic components may be available locally, but will probably need to be ordered online. 
 
 ### 2. Print the 3D Printable components
 Print the components for the switch tester case and choose an option for the case.
@@ -63,7 +63,7 @@ DOCUMENTATION
 | Document | Version | Link |
 |----------|---------|------|
 | Design Rationale     | 1.0 | [Touchpad_Joystick_Design_Rationale](/Documentation/Touchpad_Joystick_Design_Rationale.pdf) |
-| Bill of Materials    | 1.0 | [Touchpad_Joystick_BOM](/Documentation/Touchpad_Joystick_BOM.xlsx) |
+| Bill of Materials    | 1.0 | [Touchpad_Joystick_BOM](/Documentation/Touchpad_Joystick_BOM.csv) |
 | Assembly Guide       | 1.0 | [Touchpad_Joystick_Instructions](/Documentation/Touchpad_Joystick_Assembly_Guide.pdf) |
 | Maker Checklist      | 1.0 | [Touchpad_Joystick_Checklist](/Documentation/Touchpad_Joystick_Maker_Checklist.pdf) |
 | User Quick Guide     | 1.0 | [Touchpad_Joystick_Quick_Guide](/Documentation/Touchpad_Joystick_Quick_Guide.pdf)           |

@@ -93,7 +93,8 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 ATTRIBUTION
 Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
 --->
-The original design was created by [Ron Nelson](https://github.com/nelsonii) and is under an [MIT License](https://github.com/nelsonii/JoystickEnclosures/blob/main/LICENSE)
+The original design was created by [Ron Nelson](https://github.com/nelsonii) under an [MIT License](https://github.com/nelsonii/JoystickEnclosures/blob/main/LICENSE)
+
 The documentation template was created by [Neil Squire](https://www.neilsquire.ca/) / [Makers Making Change](https://makersmakingchange.com/) and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
 

@@ -25,7 +25,7 @@ This is a touch sensitive joystick designed be Ron Nelson intended to be used wi
 PHOTO
 
  --->
-![Image Description](Photos/Build_Photos/CJG_Assembled_Device.jpg)
+![Image Description](Photos/Build_Photos/CGJ_Assembled_Device.jpg)
 
 <!--- 
 ## More info at 

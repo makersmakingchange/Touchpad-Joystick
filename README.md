@@ -14,23 +14,21 @@ This document includes helper text that will not be displayed when rendered. Any
 TITLE
 Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
- # (todo:Project Title)
+ # Touchpad Joystick
 
 <!--- 
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The (todo:Project Title) is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
-
+This is a touch sensitive joystick designed be Ron Nelson intended to be used with the Xbox Adaptive Controller (XAC). This device is a more affordable option to many commercial joysticks and trackpads on the market. This is a USB joystick that can be plugged into either the left, or right USB joystick of the XAC.
 <!--- 
 PHOTO
 
  --->
-![Image Description](Photos/Device_Photo.jpg)
+![Image Description](Photos/Build_Photos/CJG_Assembled_Device.jpg)
 
 <!--- 
-## More info at
- - [Makers Making Change Forum Thread](TBD) 
+## More info at 
  - [Makers Making Change Project Page](TBD)
  --->
 
@@ -41,15 +39,15 @@ Include an overall idea of what major steps are required to build the device.
  --->
 
 ### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/ProductTitle_BOM_v0.1.xlsx) lists all of the parts and components required to build the (todo:Project Title). The electronic components may be available locally, but will probably need to be ordered online. 
+The [Bill of Materials](/Documentation/Touchpad_Joystick_BOM.xlsx) lists all of the parts and components required to build the Touchpad Joystick. The electronic components may be available locally, but will probably need to be ordered online. 
 
 ### 2. Print the 3D Printable components
 Print the components for the switch tester case and choose an option for the case.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 3. Assemble the (todo:Product Title)
-Reference the [assembly guide](/Documentation/ProductTitle_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+### 3. Assemble the Touchpad Joystick
+Reference the [assembly guide](/Documentation/Touchpad_Joystick_Assembly_Guide.pdf) for the tools and steps required to build each portion.
 
 ## Files
 <!---
@@ -64,48 +62,38 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Specifications| 1.0 | [ProjectTitle_Design_Specifications](/Documentation//Working_Files/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Design Rationale     | 1.0 | [ProjectTitle_Design_Rationale](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Bill of Materials    | 1.0 | [ProjectTitle_BOM](/Documentation/ProjectTitle_BOM_v0.1.xlsx) |
-| Assembly Guide       | 1.0 | [ProjectTitle_Instructions](/Documentation/ProjectTitle_Assembly_Guide_v0.1.pdf) |
-| Maker Checklist      | 1.0 | [ProjectTitle_Checklist](/Documentation/ProjectTitle_Maker_Checklist_v0.1.pdf) |
-| User Quick Guide     | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [ProjectTitle_Changelog](/Documentation/ProjectTitle_Changelog_v0.1.pdf)               |
+| Design Rationale     | 1.0 | [Touchpad_Joystick_Design_Rationale](/Documentation/Touchpad_Joystick_Design_Rationale.pdf) |
+| Bill of Materials    | 1.0 | [Touchpad_Joystick_BOM](/Documentation/Touchpad_Joystick_BOM.xlsx) |
+| Assembly Guide       | 1.0 | [Touchpad_Joystick_Instructions](/Documentation/Touchpad_Joystick_Assembly_Guide.pdf) |
+| Maker Checklist      | 1.0 | [Touchpad_Joystick_Checklist](/Documentation/Touchpad_Joystick_Maker_Checklist.pdf) |
+| User Quick Guide     | 1.0 | [Touchpad_Joystick_Quick_Guide](/Documentation/Touchpad_Joystick_Quick_Guide.pdf)           |
+| Changelog            | 1.0 | [Touchpad_Joystick_Changelog](/Documentation/Touchpad_Joystick_Changelog.pdf)               |
 
-### Design Files
-<!---
-DESIGN FILES
-If possible, include a copy of original design files to facilitate easy editing and customization.
---->
- - [CAD Files](/Design_Files/CAD)
- - [PCB Files](/Design_Files/PCB)
 
 ### Build Files
 <!---
 BUILD FILES
 This section contains the files for building the device.
 --->
- - [3D Printing Files](/Build_Files/3D_Printing)
- - [Custom PCB Files](/Build_Files/Custom_PCB)
- - [V1.0 3MF](/Build_Files/3D_Printing/ProductTitle_v1.0.3mf)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## License
 <!---
 LICENSE
 Choose an appropriate license. We recommend an open-source hardware compatible license.
 --->
-Everything needed or used to design, make, test, or prepare the (todo: Project Title) is licensed under the CERN 2.0 Weakly Reciprocal license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-W).
+Everything needed or used to design, make, test, or prepare the Touchpad Joystick is licensed under the CERN 2.0 Weakly Reciprocal license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-W).
 
 All software is under the GNU General Public License v3.0 (GPL-3.0). 
 
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the (todo: Project Title) are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Touchpad Joystick are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
 ## Attribution
 <!---
 ATTRIBUTION
 Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
 --->
-
+The original design was created by [Ron Nelson](https://github.com/nelsonii) and is under an [MIT License](https://github.com/nelsonii/JoystickEnclosures/blob/main/LICENSE)
 The documentation template was created by [Neil Squire](https://www.neilsquire.ca/) / [Makers Making Change](https://makersmakingchange.com/) and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
 

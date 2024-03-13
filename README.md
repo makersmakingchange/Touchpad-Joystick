@@ -21,6 +21,7 @@ SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
 This is a touch sensitive joystick designed be Ron Nelson intended to be used with the Xbox Adaptive Controller (XAC). This device is a more affordable option to many commercial joysticks and trackpads on the market. This is a USB joystick that can be plugged into either the left, or right USB joystick of the XAC.
+Project Page Link: [https://www.makersmakingchange.com/s/product/touchpad-joystick/](https://www.makersmakingchange.com/s/product/touchpad-joystick/01tJR000000Be3lYAC)
 <!--- 
 PHOTO
 
